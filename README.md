@@ -1,2 +1,2 @@
 # demo
-create a demo Github class 
+create a demo Github class. 
